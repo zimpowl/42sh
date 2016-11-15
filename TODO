@@ -1,0 +1,36 @@
+------------------- TODO -------------------
+
+                --- SRC/ ---
+
+main         :
+  - option :
+    -i
+    -s
+lexer   [benamo_l]     : IN PROGRESS
+parser  [ziwiak_p]     : IN PROGRESS
+exec    [elghoz_d]     : IN PROGRESS
+
+
+            -- CMakelists.txt --
+
+
+            -- TESTS/ (python) --
+
+format :
+    [categorie(s)]
+  - online = 1 test
+  - print error + exit code
+  - result / categorie
+
+  - global result
+
+
+                -- DOC/ --
+
+Manual page (42sh.1)  :
+  - NAME
+  - SYNOSPSIS
+  - DESCRIPTION
+  - AUTHORS
+
+Doxygen  :
